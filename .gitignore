@@ -3,3 +3,9 @@
 ################################################################################
 
 /.vs
+/HelloGitHub_Csh/.vs/HelloGitHub_Csh/v16
+/HelloGitHub_Csh/HelloGitHub_Csh/bin/Debug
+/HelloGitHub_Csh/HelloGitHub_Csh/obj/Debug
+/HelloGitHub_Csh/HelloGitHub_Csh/Properties
+/HelloGitHub_Csh/HelloGitHub_Csh/App.config
+/HelloGitHub_Csh/HelloGitHub_Csh/HelloGitHub_Csh.csproj
